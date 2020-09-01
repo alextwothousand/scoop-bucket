@@ -2,9 +2,9 @@
 A scoop bucket containing all sorts I find useful.
 
 Current available packages:
-| Package Name | Version |
-| --- | --- |
-| PowerShell Core | 7.0.3 |
+| package name | scoop name | version |
+| --- | --- | --- |
+| PowerShell Core | pscore | 7.0.3 |
 
 ## Install Scoop
 ```ps
