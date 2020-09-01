@@ -12,7 +12,7 @@
 			],
 			"autoupdate": {
 				"url": "https://github.com/devlexanderxyz/touch-go/releases/download/$version/touch64.exe"
-			}
+			},
         },
         "32bit": {
             "url": "https://github.com/devlexanderxyz/touch-go/releases/download/1.0.0/touch32.exe",
@@ -24,5 +24,6 @@
 				"url": "https://github.com/devlexanderxyz/touch-go/releases/download/$version/touch32.exe"
 			}
         }
-    }
+    },
+	"bin": "touch.exe"
 }
