@@ -5,6 +5,7 @@ Current available packages:
 | package name | scoop name | version |
 | --- | --- | --- |
 | PowerShell Core | pscore | 7.0.3 |
+| sampctl | sampctl | 1.9.1 |
 
 ## Install Scoop
 ```ps
