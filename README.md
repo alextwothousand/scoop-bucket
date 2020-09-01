@@ -6,6 +6,7 @@ Current available packages:
 | --- | --- | --- |
 | PowerShell Core | pscore | 7.0.3 |
 | sampctl | sampctl | 1.9.1 |
+| ArchWSL2 | archwsl2 | 20080300 |
 
 ## Install Scoop
 ```ps
