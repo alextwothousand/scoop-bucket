@@ -8,6 +8,7 @@ Current available packages:
 | sampctl | sampctl | 1.9.1 |
 | ArchWSL2 | archwsl2 | 20080300 |
 | GeForce Experience | geforce-experience | 3.20.4.14 |
+| touch | touch-go | 1.0.0 |
 
 ## Install Scoop
 ```ps
