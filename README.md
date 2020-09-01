@@ -7,6 +7,7 @@ Current available packages:
 | PowerShell Core | pscore | 7.0.3 |
 | sampctl | sampctl | 1.9.1 |
 | ArchWSL2 | archwsl2 | 20080300 |
+| GeForce Experience | geforce-experience | 3.20.4.14 |
 
 ## Install Scoop
 ```ps
