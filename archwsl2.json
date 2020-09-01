@@ -44,9 +44,9 @@
     ],
     "uninstaller": {
         "script": [
-            "$res = Invoke-ExternalCommand \"$dir\\Arch.exe\" 'isregd'",
+            "$res = Invoke-ExternalCommand \"$dir\\Arch2.exe\" 'isregd'",
             "if(!$res) { error 'ArchWsl is not registered!'; return }",
-            "Invoke-ExternalCommand \"$dir\\Arch.exe\" 'clean', '-y' | Out-Null"
+            "Invoke-ExternalCommand \"$dir\\Arch2.exe\" 'clean', '-y' | Out-Null"
         ]
     }
 }
