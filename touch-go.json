@@ -1,6 +1,6 @@
 {
 	"version": "1.0.0",
-	"notes": "touch-go installed successfully! Goodbye, and take care!",
+	"notes": "touch-go installed successfully! Goodbye, and take care.",
     "persist": "data",
     "checkver": "github",
 	"architecture": {
