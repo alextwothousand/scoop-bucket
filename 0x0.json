@@ -1,0 +1,9 @@
+{
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/Calinou/0x0/master/bin/0x0",
+    "bin": "0x0",
+    "depends": {
+        "curl": "main/curl",
+        "git": "main/git"
+    }
+}
