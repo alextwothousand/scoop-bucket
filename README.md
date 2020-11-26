@@ -4,7 +4,7 @@ A scoop bucket containing all sorts I find useful.
 Current available packages:
 | package name | scoop name | version |
 | --- | --- | --- |
-| PowerShell Core | pscore | 7.0.3 |
+| PowerShell Core | pscore | 7.1.0 |
 | sampctl | sampctl | 1.9.1 |
 | ArchWSL2 | archwsl2 | 20080300 |
 | GeForce Experience | geforce-experience | 3.20.4.14 |
