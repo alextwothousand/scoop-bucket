@@ -4,7 +4,7 @@
     "homepage": "https://www.cpuid.com/softwares/cpu-z.html",
     "license": "Freeware",
     "url": "https://download.cpuid.com/cpu-z/cpu-z_1.94-rog-en.zip",
-    "hash": "5ecd8a890e4288a4c304c37c911aae5e8f2310df1f19b56100bdbb6da9963120",
+    "hash": "302aaf8c00d5df0330742123dba57565ae729779f327d65bdf76ddab76b9ad76",
     "architecture": {
         "64bit": {
             "bin": [
