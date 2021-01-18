@@ -10,6 +10,7 @@ Current available packages:
 | GeForce Experience | geforce-experience | 3.20.4.14 |
 | touch | touch-go | 1.0.0 |
 | .NET 5.0 | dotnet-sdk-preview | 5.0.0-rc.2.20475.5 |
+| OpenSSL | openssl-developer | 1.0.1 |
 
 ## Install Scoop
 ```ps
