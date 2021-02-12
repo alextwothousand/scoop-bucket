@@ -1,7 +1,7 @@
 {
 	"version": "2020-10-18",
 	"description": "Lua interpreter",
-	"url": "https://github.com/luapower/luapower-all/archive/2020-10-18.zip",
+	"url": "https://codeload.github.com/luapower/luapower-all/zip/2020-10-18",
 	"bin": "bin/mingw64/luajit.exe",
 	"env_add_path": "bin\\mingw64",
 	"shortcuts": [ ["luajit.exe", "LuaJIT"] ]
