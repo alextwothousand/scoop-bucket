@@ -6,5 +6,5 @@
 		"url": "https://github.com/lighttiger2505/sqls/releases/download/v$version/sqls_$version_Windows_x86_64.tar.gz"
 	},
 	"bin": [ "sqls.exe" ],
-	"hash": "0279b84d53f0ca73e5c5ed5226405e15c0f5687b8832ff99a2be33e0593d239e"
+	"hash": "c4d0fc9eb9d88a843aa7d573f2f37375e6f709c1488fe70934e2ce1a9a4784d7"
 }
