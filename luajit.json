@@ -8,7 +8,7 @@
     "depends": {
         "make": "main/make"
     },
-    "postinstall": [
+    "post_install": [
         "cd src && make"
     ]
 }
