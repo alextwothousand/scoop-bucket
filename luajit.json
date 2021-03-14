@@ -7,7 +7,7 @@
     "env_set": {
         "LUAJIT_PATH": "LuaJIT-2.1.0-beta3/src/"
     },
-    "extract_dir": "LuaJIT-$version",
+    "extract_dir": "LuaJIT-2.1.0-beta3",
     "persist": "data",
     "depends": {
         "make": "main/make"
