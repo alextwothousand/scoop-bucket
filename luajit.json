@@ -15,10 +15,10 @@
         "cd $dir\\src && make",
         "cd $dir\\src && curl https://gist.githubusercontent.com/alextwothousand/7f2f1ac87e680b85f09cf36664538051/raw/7ccbe236c610b8f22c64681783711fc09bc44940/lua.cmd --output lua.cmd"
     ],
-    "bin": "src/luajit.exe",
+    "bin": "src\\luajit.exe",
     "persist": "data",
-    "env_add_path": "src/",
+    "env_add_path": "src",
     "env_set": {
-        "LUAJIT_PATH": "src/"
-    },
+        "LUAJIT_PATH": "$dir\\src"
+    }
 }
