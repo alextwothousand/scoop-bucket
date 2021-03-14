@@ -5,6 +5,7 @@
         "Scoop bucket by Alex <alextwothousand/scoop-bucket>"
     ],
     "url": "https://luajit.org/download/LuaJIT-2.1.0-beta3.zip",
+    "hash": "fcc4069bfaf909f762844d6404a8c5940591b00237ffce1781e887a0964140da",
     "bin": "src/luajit.exe",
     "persist": "data",
     "env_add_path": "src/",
