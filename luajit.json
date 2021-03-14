@@ -1,18 +1,23 @@
 {
     "version": "2.1.0-beta3",
-    "notes": "LuaJIT is a Just-In-Time Compiler (JIT) for the Lua programming language.",
+    "notes": [
+        "LuaJIT is a Just-In-Time Compiler (JIT) for the Lua programming language.",
+        "Scoop bucket by Alex <alextwothousand/scoop-bucket>"
+    ],
     "url": "https://luajit.org/download/LuaJIT-2.1.0-beta3.zip",
-    "bin": "LuaJIT-2.1.0-beta3/src/luajit.exe",
-    "env_add_path": "LuaJIT-2.1.0-beta3/src/",
+    "bin": "src/luajit.exe",
+    "persist": "data",
+    "env_add_path": "src/",
     "env_set": {
-        "LUAJIT_PATH": "LuaJIT-2.1.0-beta3/src/"
+        "LUAJIT_PATH": "src/"
     },
     "extract_dir": "LuaJIT-2.1.0-beta3",
-    "persist": "data",
     "depends": {
-        "make": "main/make"
+        "make": "main/make",
+        "curl": "main/curl"
     },
     "post_install": [
-        "cd LuaJIT-2.1.0-beta3/src && make"
+        "cd $dir\\src && make",
+        "cd $dir\\src && curl https://gist.githubusercontent.com/alextwothousand/7f2f1ac87e680b85f09cf36664538051/raw/7ccbe236c610b8f22c64681783711fc09bc44940/lua.cmd --output lua.cmd"
     ]
 }
