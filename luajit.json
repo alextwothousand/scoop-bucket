@@ -1,0 +1,14 @@
+{
+    "version": "2.1.0-beta3",
+    "notes": "LuaJIT is a Just-In-Time Compiler (JIT) for the Lua programming language.",
+    "url": "https://luajit.org/download/LuaJIT-2.1.0-beta3.zip",
+    "bin": "src/luajit.exe",
+    "env_add_path": "src/",
+    "persist": "data",
+    "depends": {
+        "make": "main/make"
+    },
+    "postinstall": [
+        "cd src && make"
+    ]
+}
