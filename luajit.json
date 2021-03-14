@@ -8,7 +8,7 @@
     "depends": {
         "make": "main/make"
     },
-    "post_install": [
+    "pre_install": [
         "cd LuaJIT-2.1.0-beta3/src && make"
     ]
 }
