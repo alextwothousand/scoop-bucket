@@ -17,7 +17,6 @@ Current available packages:
 | emscripten | emscripten | 2.0.20 |
 | 0x0 | "0x0" | stable |
 | vlang | vlang | weekly.2021.22 |
-| vlang nightly | vlang-nightly | rolling |
 
 
 ## Install Scoop
