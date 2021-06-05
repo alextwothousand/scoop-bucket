@@ -22,7 +22,7 @@
 	],
 
 	"pre_install": [
-		"./make.bat"
+		".\\make.bat"
 	],
 
 	"checkver": "github",
