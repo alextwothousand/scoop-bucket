@@ -21,7 +21,7 @@
 		"warning: this is nightly software, please use with caution."
 	],
 
-	"post_install": [
+	"pre_install": [
 		"./make.bat"
 	],
 
