@@ -20,6 +20,11 @@
 		"vlang scoop bucket by alextwothousand (github)."
 	],
 
+	"checkver": "github",
+	"autoupdate": {
+		"url": "https://github.com/vlang/v/releases/download/$version/v_windows.zip"
+	},
+
 	"bin": "v.exe",
 	"env_add_path": "."
 }
