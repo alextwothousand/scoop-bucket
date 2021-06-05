@@ -1,0 +1,25 @@
+{
+	"version": "weekly.2021.22",
+	"homepage": "https://vlang.io",
+
+	"license": "MIT",
+	"depends": {
+		"tcc": "main/tcc",
+		"llvm": "main/llvm"
+	},
+
+	"url": "https://github.com/vlang/v/releases/download/weekly.2021.22/v_windows.zip",
+	"hash": "75799220dfd22b667752bf641bab67bedb27a29c721e248ff89f200a7a3c999f",
+
+	"extract_dir": "v",
+	"persist": "data",
+
+	"description": "Simple, fast, safe, compiled. For developing maintainable software.",
+	"notes": [
+		"vlang.io - by the vlang team",
+		"vlang scoop bucket by alextwothousand (github)."
+	],
+
+	"bin": "v.exe",
+	"env_add_path": "."
+}
