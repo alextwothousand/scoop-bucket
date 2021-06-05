@@ -1,6 +1,6 @@
 {
 	"version": "weekly.2021.22",
-	"homepage": "https://vlang.io",
+	"homepage": "https://github.com/vlang/v",
 
 	"license": "MIT",
 	"depends": {
