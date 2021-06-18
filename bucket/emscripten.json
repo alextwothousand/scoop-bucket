@@ -7,7 +7,7 @@
 		"git": "main/git"
 	},
 	"url": "https://github.com/emscripten-core/emsdk/archive/refs/tags/2.0.20.zip",
-	"hash": "4a7e9b689dbd95e48e582af7674f185ea768b9e1",
+	"hash": "b45065b8ee970c53e826dbea53c970e168b808cd138c79ed86578c6e67374c67",
 	"extract_dir": "emsdk-2.0.20",
 	"persist": "data",
 	"pre_install": [
