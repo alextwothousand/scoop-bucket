@@ -9,7 +9,7 @@
 	},
 
 	"url": "https://github.com/vlang/v/releases/download/weekly.2021.25/v_windows.zip",
-	"hash": "eeb48314c861b967494f28e69ac32a19bd7a806e56e3fdeefa14dfee53b7a761",
+	"hash": "7001193dff6d90aaaaed5b73fd0eb750d213bcf8b7ef097d01edf2e4a2809795",
 
 	"extract_dir": "v",
 	"persist": "data",
