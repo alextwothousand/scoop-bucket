@@ -1,5 +1,5 @@
 {
-	"version": "weekly.2021.23",
+	"version": "weekly.2021.25",
 	"homepage": "https://github.com/vlang/v",
 
 	"license": "MIT",
@@ -8,7 +8,7 @@
 		"llvm": "main/llvm"
 	},
 
-	"url": "https://github.com/vlang/v/releases/download/weekly.2021.23/v_windows.zip",
+	"url": "https://github.com/vlang/v/releases/download/weekly.2021.25/v_windows.zip",
 	"hash": "eeb48314c861b967494f28e69ac32a19bd7a806e56e3fdeefa14dfee53b7a761",
 
 	"extract_dir": "v",
