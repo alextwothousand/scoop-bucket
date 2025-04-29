@@ -1,0 +1,25 @@
+{
+  "version": "0.3.4",
+  "description": "Apollo - A self-hosted desktop stream host for Artemis (Moonlight Noir).",
+  "homepage": "https://github.com/ClassicOldSong/Apollo",
+  "license": "GPL-3.0",
+  "url": "https://github.com/ClassicOldSong/Apollo/releases/download/v0.3.4/Apollo.exe",
+  "hash": "905933a3f267a87f89782a9da7d06bb82362dd6c93b6ceb7fe84da83c4c344db",
+  "pre_install": [
+    "Expand-7zipArchive \"$dir\\Apollo.exe\" \"$dir\"",
+    "Remove-Item \"$dir\\Apollo.exe\""
+  ],
+  "bin": "sunshine.exe",
+  "shortcuts": [
+    [
+      "sunshine.exe",
+      "Apollo"
+    ]
+  ],
+  "checkver": {
+    "github": "https://github.com/ClassicOldSong/Apollo"
+  },
+  "autoupdate": {
+    "url": "https://github.com/ClassicOldSong/Apollo/releases/download/v$version/Apollo.exe"
+  }
+}
